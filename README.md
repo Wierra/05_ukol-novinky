@@ -10,4 +10,4 @@ Vytvořte si repozitář ze šablony [cviceni-novinky](https://github.com/aellop
 
 Na konci by stránka v prohlížeči měla vypadat jako na obrázku níže:
 
-![novinky](../images/screen-novinky.png)
+![img](../images/screen-novinky.png)
