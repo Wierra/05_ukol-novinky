@@ -5,9 +5,9 @@ const info = document.querySelector("news")
 info.style.backgroundColor = "white"
 info.style.width = "60rem"
 
-const nadpis = document.querySelector("h1")
-nadpis.classList.add("news__title")
-nadpis.textContent = "Aktuální novinky"
+const mainTitle = document.querySelector("h1")
+mainTitle.classList.add("news__title")
+mainTitle.textContent = "Aktuální novinky"
 
 document.querySelector("#zprava1").classList.add = "post--main"
 
